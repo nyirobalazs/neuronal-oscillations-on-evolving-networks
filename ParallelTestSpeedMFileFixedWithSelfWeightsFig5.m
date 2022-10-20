@@ -515,7 +515,6 @@ end
 
 
 
-
 function dXdt = dXdt(t, X, Xhist, params)
    
     Z = X(1:params.nmodules); % complex numbers

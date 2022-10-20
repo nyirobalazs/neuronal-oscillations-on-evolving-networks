@@ -9,4 +9,4 @@ The original paper from Alain Goriely et.al.(2020) can be read [HERE](https://jo
 The article describing the project can be read [HERE](https://github.com/nyirobalazs/neuronal-oscillations-on-evolving-networks/blob/main/PBM_Report_Paper_Evolving_Networks%20(3).pdf)
 
 
-![figure](./assets/neural_oscillation_figure.PNG)
+![figure](./assets/neural_oscillation_figure_.PNG)

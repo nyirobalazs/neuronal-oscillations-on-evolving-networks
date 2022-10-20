@@ -7,3 +7,6 @@ In addition to being part of writing the code to reproduce the results of the or
 The original paper from Alain Goriely et.al.(2020) can be read [HERE](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.128102)
 <br>
 The article describing the project can be read [HERE](https://github.com/nyirobalazs/neuronal-oscillations-on-evolving-networks/blob/main/PBM_Report_Paper_Evolving_Networks%20(3).pdf)
+
+
+![figure](./assets/neural_oscillation_figure.PNG)

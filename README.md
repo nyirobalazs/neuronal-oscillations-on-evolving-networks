@@ -10,5 +10,5 @@ The article describing the project can be read **[HERE](https://github.com/nyiro
 
 
 
-*The second graph in the lower figure clearly shows that the metabolic index of the oscipital cortex decreases most markedly during the simulation after taking myelin thickness into account, which is consistent with the thermal map of the destruction heat map based on medical research:*
+*The second graph in the lower figure clearly shows that the metabolic index of the occipital cortex decreases most markedly during the simulation after taking myelin thickness into account, which is consistent with the heatmap of the destruction based on medical research:*
 ![figure](./assets/neural_oscillation_figure_.PNG)

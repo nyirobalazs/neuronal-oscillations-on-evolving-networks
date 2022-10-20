@@ -92,7 +92,6 @@ for betalevel = 1:betasize
         nlambdas = eig(NL);
         lambdas = eig(L);
 
-
         NET_STATS(1, betalevel, T) = k_mean;
         NET_STATS(2, betalevel, T) = nlambdas(2);
         NET_STATS(3, betalevel, T) = lambdas(2);

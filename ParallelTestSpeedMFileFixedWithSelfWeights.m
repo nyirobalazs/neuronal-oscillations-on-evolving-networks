@@ -99,7 +99,6 @@ xlabel('Time T (yr)')
 xlim([1 30])
 ylim([0.005 1.05])
 
-
 % FIGURE 3
 
 %Defining brain areas

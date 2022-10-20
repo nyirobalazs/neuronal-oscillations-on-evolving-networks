@@ -1,4 +1,4 @@
-id node1,id node2,name node1,name node2,parent id node1,parent id node2,parent name node1,parent name node2,edge confidence,edge weight(med flm)
+id node1,id node2,name  node1,name node2,parent id node1,parent id node2,parent name node1,parent name node2,edge confidence,edge weight(med flm)
 12,16,rh.lateralorbitofrontal_12,rh.lateralorbitofrontal_14,1,1,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,238,16.510004
 4,16,rh.lateralorbitofrontal_6,rh.lateralorbitofrontal_14,1,1,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,259,26.650005
 4,14,rh.lateralorbitofrontal_6,rh.lateralorbitofrontal_3,1,1,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,237,20.399990

@@ -1,4 +1,4 @@
-id node1;id node2;name node1;name node2;parent id node1;parent id node2;parent name node1;parent name node2;edge confidence;edge weight(fibre count/length median)
+id node1;id node2;name  node1;name node2;parent id node1;parent id node2;parent name node1;parent name node2;edge confidence;edge weight(fibre count/length median)
 127;504;rh.caudalmiddlefrontal_11;Right-Putamen;9;37;ctx-rh-caudalmiddlefrontal;Right-Putamen;411;25.000000
 127;145;rh.caudalmiddlefrontal_11;rh.precentral_19;9;10;ctx-rh-caudalmiddlefrontal;ctx-rh-precentral;294;5.000000
 127;131;rh.caudalmiddlefrontal_11;rh.caudalmiddlefrontal_6;9;9;ctx-rh-caudalmiddlefrontal;ctx-rh-caudalmiddlefrontal;327;8.000000
